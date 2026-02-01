@@ -8,10 +8,10 @@ data:
     <html>
     <head>
       <meta charset="UTF-8">
-      <title>test Page déployée depuis GitHub avec ArgoCD</title>
+      <title>Page déployée depuis GitHub avec ArgoCD</title>
     </head>
     <body>
-      <h1>Page déployée depuis GitHub avec ArgoCD</h1>
+      <h1>test mathis Page déployée depuis GitHub avec ArgoCD</h1>
       <p>Bienvenue à votre TP GitOps !</p>
     </body>
     </html>
