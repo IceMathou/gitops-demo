@@ -8,7 +8,7 @@ data:
     <html>
     <head>
       <meta charset="UTF-8">
-      <title>Page déployée depuis GitHub avec ArgoCD</title>
+      <title>test Page déployée depuis GitHub avec ArgoCD</title>
     </head>
     <body>
       <h1>Page déployée depuis GitHub avec ArgoCD</h1>
