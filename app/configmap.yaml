@@ -11,7 +11,7 @@ data:
       <title>Page déployée depuis GitHub avec ArgoCD</title>
     </head>
     <body>
-      <h1>test mathis Page déployée depuis GitHub avec ArgoCD</h1>
+      <h1>Page déployée depuis GitHub</h1>
       <p>Bienvenue à votre TP GitOps !</p>
     </body>
     </html>
